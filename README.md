@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Siva Sankar 👋
 
-<!--
-**sivasankar1225/sivasankar1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Aspiring AI/ML Engineer passionate about Python, Machine Learning, and Data Science. I enjoy building projects, learning new technologies, and solving real-world problems.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Machine Learning
+- Data Science
+- Git & GitHub
+- JSON
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Learning
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+
+## Featured Projects
+- Student Grade Analyzer
+- ML Project
+- Working with JSON in Python
+
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/sivasankarr25
+- GitHub: https://github.com/sivasankar1225
+
+📍 Kanchipuram, Tamil Nadu, India
